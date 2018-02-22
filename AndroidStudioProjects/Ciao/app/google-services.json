@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "809580148867",
+    "firebase_url": "https://ciao-82bd9.firebaseio.com",
+    "project_id": "ciao-82bd9",
+    "storage_bucket": "ciao-82bd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809580148867:android:e7f6927cf04ee9e1",
+        "android_client_info": {
+          "package_name": "com.labs.morb.ciao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809580148867-1v20c40qg1f5sp26p6qtvttg67d1ses1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.labs.morb.ciao",
+            "certificate_hash": "0be9cbd803cf44c8709ddabbaae166d4693761f4"
+          }
+        },
+        {
+          "client_id": "809580148867-sk92cqd8kv81umeobhg36mfbt9l531pk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFVrjX-Mnj5nFTJE_XcvMIxWCuER3Gf0E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809580148867-sk92cqd8kv81umeobhg36mfbt9l531pk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
